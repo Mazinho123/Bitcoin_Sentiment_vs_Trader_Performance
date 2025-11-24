@@ -6,7 +6,7 @@ Analyze how Bitcoin market sentiment (Fear vs Greed) influences trader profitabi
 ###  Data Sources
 - Hyperliquid execution history
 - Bitcoin Fear & Greed Index
-
+(links provided in `data.txt`)
 
 ### 🔧 Methods Used
 - Feature Engineering
